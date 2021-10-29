@@ -1,0 +1,124 @@
+Lời tựa
+Bạn đã lựa chọn cuốn sách này, vì vậy tôi mặc định bạn là một lập trình viên. Tốt; giống tôi. Và vì tôi đã có sự quan tâm của bạn đối với cuốn sách này, hãy để tôi cho bạn biết lý do tại sao bạn chọn nó.
+
+Mọi chuyện bắt đầu cách đây không lâu ở một nơi không quá xa. Mở rèm, ánh sáng, và máy quay, Charley… (câu gốc là Curtains Up! Lights, Camera, Action! – một cách nói trong sân khấu kịch, đại khái: Mở rèm – ánh sáng – máy quay – diễn!).
+
+Vài năm trước, tôi đang làm việc tại một tập đoàn quy mô vừa, bán các sản phẩm được quản lý với một quy trình rất chặt chẽ. Bạn biết loại văn phòng; chúng tôi ngồi trong một nơi có rất nhiều bàn làm việc và vách ngăn ở trong một toà nhà ba tầng (xem hình minh hoạ ở dưới), chức giám đốc trở lên có văn phòng riêng và việc đưa tất cả những người bạn cần vào cùng một phòng cho một cuộc họp mất một tuần hoặc lâu hơn.
+
+Chúng tôi đang hoạt động trong một thị trường rất cạnh tranh khi chính phủ mở ra một sản phẩm mới.
+
+Đột nhiên, chúng tôi có một nhóm khách hàng tiềm năng hoàn toàn mới; tất cả những gì chúng tôi phải làm là khiến họ mua sản phẩm của chúng tôi. Điều đó có nghĩa là chúng tôi phải nộp đơn trước một thời hạn nhất định với chính phủ liên bang, vượt qua cuộc kiểm tra đánh giá vào một ngày khác và đưa ra thị trường vào ngày thứ ba.
+
+Nhiều lần, ban lãnh đạo của chúng tôi nhấn mạnh với chúng tôi tầm quan trọng của những ngày đó. Chỉ một lần trượt và chính phủ sẽ giữ chúng tôi ngoài thị trường trong một năm và nếu khách hàng không thể đăng ký vào ngày đầu tiên, thì tất cả họ sẽ đăng ký với người khác và việc kinh doanh của chúng tôi sẽ bị trì trạc.
+
+(Một luật liên bang nào đó của Mỹ, mình cũng không rành)
+
+Đó là kiểu môi trường làm việc với hai loại người, một là thường xuyên phàn nàn, một là họ chỉ ra rằng “áp lực thì tạo nên kim cương”.
+
+Tôi là giám đốc kỹ thuật của dự án(technical project manager), được thăng chức từ development. Trách nhiệm của tôi là đưa trang web đi vào vận hành, để khách hàng tiềm năng có thể tải xuống thông tin, và quan trọng nhất, là các mẫu đơn đăng ký. Partner của tôi là business-facing project manager, người mà tôi sẽ gọi là Joe. Vai trò của Joe là làm việc ở phía bên khách hàng, giải quyết các yêu cầu về bán hàng, tiếp thị và các vấn đề phi kỹ thuật. Anh ấy cũng là người thích câu nói “áp lực làm nên kim cương”.
+
+Nếu bạn đã từng làm qua nhiều công việc ở các công ty của Mỹ, có lẽ bạn đã thấy thói quen chỉ tay năm ngón, nói xấu và chán ghét công việc là điều hoàn toàn bình thường. Công ty của chúng tôi đã có một giải pháp thú vị cho vấn đề đó với tôi và Joe.
+
+Giống như Batman và Robin một chút, nhiệm vụ của chúng tôi là phải hoàn thành tất cả mọi thứ!. Tôi gặp nhóm kỹ thuật mỗi ngày ở một góc làm việc; chúng tôi sẽ xây dựng lại lịch trình mỗi ngày, tìm ra con đường quan trọng, sau đó loại bỏ mọi trở ngại có thể ra khỏi con đường quan trọng đó. Nếu ai đó cần phần mềm; chúng tôi sẽ đi làm nó. Nếu họ thật sự muốn cấu hình tường lửa nhưng “trời ơi, đã đến giờ nghỉ trưa của tôi rồi,” chúng tôi sẽ mua bữa trưa cho họ. Nếu ai đó muốn làm việc trên configuration ticket của chúng tôi nhưng lại đang có các ticket ưu tiên khác, tôi và Joe sẽ nói chuyện với người giám sát. Sau đó là người quản lý. Sau đó là giám đốc.
+
+Và cứ như vậy, chúng tôi đã hoàn thành mọi thứ.
+
+Hơi cường điệu khi nói rằng chúng tôi đã đạp đổ ghế, la hét và la hét, nhưng chúng tôi đã sử dụng mọi kỹ thuật mà mình có để hoàn thành công việc, phát minh ra một vài kỹ thuật mới trong quá trình làm việc và chúng tôi đã làm điều đó một cách đàng hoàng (có tâm), cách mà tôi tự hào cho đến ngày nay. (ý cha này là lão rất tự hào về kỹ thuật code sạch của lão)
+
+Tôi nghĩ mình là một thành viên của nhóm, không phải nhảy vào để viết câu lệnh SQL hoặc thực hiện một chút ghép nối để release sản phẩm (get the code out the door). Vào thời điểm đó, tôi cũng nghĩ Joe cũng như thế.
+
+Cuối cùng tôi nhận ra rằng Joe không chia sẻ quan điểm đó. Đó là một ngày rất buồn đối với tôi.
+
+
+Đó là thứ sáu lúc 1 giờ chiều; trang web đã được thiết lập để hoạt động rất sớm vào thứ Hai tuần sau.
+
+Chúng tôi đã làm xong.*DONE*. Mọi hệ thống đã hoạt động; chúng tôi đã sẵn sàng. Tôi đã tập hợp toàn bộ team kỹ thuật cho cuộc họp scrum cuối cùng và chúng tôi đã sẵn sàng để bàn giao sản phẩm. Không chỉ đội kỹ thuật, cuộc họp còn có nhân viên kinh doanh từ phòng tiếp thị, Product Owner, và chúng tôi.
+
+Chúng tôi đã tự hào. Đó là một khoảnh khắc tốt.
+
+Sau đó Joe ghé qua.
+
+Anh ấy nói điều gì đó như, “Tin xấu. Bộ phận pháp lý chưa có các mẫu đăng ký, vì vậy chúng ta chưa thể phát hành nó. “
+
+Đây không phải là vấn đề lớn; chúng tôi đã bị kìm hãm hết chuyện này đến chuyện khác trong suốt thời gian của toàn bộ dự án, và đã có thói quen của Batman / Robin. Tôi đã sẵn sàng và câu trả lời của tôi đại khái là, “Được rồi, partner, chúng ta hãy làm điều này một lần nữa. Bộ phận pháp lý là ở tầng ba, phải không? ”
+
+Sau đó, mọi thứ trở nên kỳ lạ.
+
+
+Thay vì đồng ý với tôi, Joe hỏi, “Bạn đang nói gì vậy Matt?”
+
+Tôi nói, “Bạn biết đấy. Bài ca muôn thuở của chúng ta. Chúng ta đang nói về bốn tệp PDF, phải không? Vậy là xong; bộ phận pháp lý chỉ cần phê duyệt chúng phải không? Vào phòng họ chơi nào (Let’s go hang out): cho họ một ánh mắt hằn học, dữ dằn và hoàn thành nốt việc này thôi! ”
+
+Joe không đồng ý với tôi và trả lời, “Chúng ta sẽ phát hành nó vào cuối tuần tới. Không có gì to tát cả.”
+
+Bạn có thể đoán phần còn lại của cuộc tranh luận; nó nghe giống như thế này:
+
+Matt: “Nhưng tại sao? Họ có thể làm điều này trong vài giờ. “
+
+Joe: “Có thể mất nhiều thời gian hơn thế.”
+
+Matt: “Nhưng họ còn có cả cuối tuần nữa. Rất nhiều thời gian. Hãy làm nó thôi! ”
+
+Joe: “Matt, đây là những người chuyên nghiệp. Chúng ta không thể chỉ việc nhìn họ chằm chằm và khăng khăng bắt họ phải hy sinh cuộc sống cá nhân của họ cho dự án nhỏ của chúng ta. “
+
+Matt: (tạm dừng) “… Joe … nhóm kỹ sư của chúng ta đã làm gì trong bốn tháng qua?”
+
+Joe: “Đúng, nhưng đây là những người chuyên nghiệp.”
+
+Tạm ngừng.
+
+Thở.
+
+Joe. Vừa. Nói. Cái. Gì. Vậy? (kiểu thằng cha này đang rặn từng chữ)
+
+Vào thời điểm đó, tôi nghĩ các nhân viên kỹ thuật là những người chuyên nghiệp, theo nghĩa tốt nhất của từ này.
+
+Tuy nhiên, nghĩ lại nó một lần nữa, tôi không chắc lắm.
+
+Hãy cùng nhìn lại kỹ thuật Batman và Robin đó lần thứ hai, từ một góc nhìn khác. Tôi nghĩ rằng tôi đang cổ vũ cho đội năng suất nhất, nhưng tôi nghi ngờ Joe đang chơi một trò chơi, với việc ngầm cho rằng các nhân viên kỹ thuật đang chống đối anh ấy. Hãy suy nghĩ về điều đó: Tại sao cần phải chạy xung quanh, đá bay ghế và dựa người vào tường?
+
+Chẳng lẽ chúng ta không thể hỏi nhân viên khi nào họ sẽ hoàn thành công việc, được nhận câu trả lời chắc chắn, tin vào câu trả lời mà chúng ta nhận được và không bị đốt cháy bởi niềm tin đó?
+
+Chắc chắn, đối với những người chuyên nghiệp, chúng ta nên làm như trên. . . nhưng, chúng tôi không thể làm việc đó. Joe không tin tưởng vào câu trả lời của chúng tôi và cảm thấy thoải mái khi quản lý nhóm kỹ thuật, đồng thời, vì một vài lý do nào đó, anh ấy tin tưởng nhóm pháp lý và không sẵn sàng quản lý họ.
+
+Chuyện gì vậy???
+
+Bằng cách nào đó, đội ngũ pháp lý đã thể hiện sự chuyên nghiệp theo cách mà đội ngũ kỹ thuật không làm được.
+
+Bằng cách nào đó, một nhóm khác đã thuyết phục Joe rằng họ không cần người trông trẻ, rằng họ không chơi game và họ cần được đối xử như những người bạn đồng trang lứa được tôn trọng.
+
+Không, tôi không nghĩ nó có liên quan gì đến những chứng chỉ đẹp đẽ treo trên tường hay một vài năm đại học bổ sung, mặc dù những năm đại học đó có thể đã bao gồm một chút đào tạo xã hội ngầm về cách cư xử.
+
+Kể từ ngày đó, những năm về trước, tôi đã tự hỏi rằng nghề kỹ thuật sẽ phải thay đổi như thế nào để được coi là những người chuyên nghiệp.
+
+Ồ, tôi có một vài ý tưởng. Tôi đã viết blog một chút, đọc rất nhiều, cố gắng cải thiện tình hình công việc của chính mình và giúp đỡ một vài người khác. Tuy nhiên, tôi không biết cuốn sách nào vạch ra một kế hoạch làm cho toàn bộ sự việc như trên trở nên rõ ràng.
+
+Rồi một ngày nọ, bất ngờ, tôi nhận được lời đề nghị xem xét bản thảo của một cuốn sách; chính là cuốn sách mà bạn đang cầm trên tay đọc nãy giờ.
+
+Cuốn sách này sẽ cho bạn biết từng bước chính xác cách thể hiện bản thân và tương tác với mọi người như một người chuyên nghiệp (đại khái là trở trành một coder chuyên nghiệp và có tâm). Không phải bằng những lời sáo rỗng, không phải là những lý thuyết trên giấy, mà là những gì bạn có thể làm và làm như thế nào.
+
+Trong một số trường hợp, các ví dụ thực tế từng câu từng chữ.
+
+Một số ví dụ trong số đó có câu trả lời, phản hồi, giải thích rõ ràng, thậm chí là lời khuyên cho việc phải làm gì nếu người kia cố gắng “phớt lờ bạn”.
+
+Này, nhìn kìa, Joe lại đến đây, nhường lại sân khấu cho Joe thôi:
+
+Ồ, chúng ta nơi rồi, trở lại BigCo, với Joe và tôi, một lần nữa trong dự án chuyển đổi trang web lớn.
+
+Chỉ lần này, hãy tưởng tượng nó hơi khác một chút.
+
+Thay vì trốn tránh các cam kết, các nhân viên kỹ thuật thực sự thực hiện chúng. Thay vì trốn tránh việc ước tính thời gian làm hoặc để người khác lập kế hoạch dùm cho( và sau đó phàn nàn về nó), nhóm kỹ thuật thực sự tự tổ chức và đưa ra các cam kết thực sự.
+
+Bây giờ hãy tưởng tượng rằng các nhân viên thực sự đang làm việc cùng nhau. Khi các lập trình viên bị chặn bởi các hoạt động xao nhãng khác, họ sẽ nhấc điện thoại lên và sysadmin thực sự bắt đầu công việc.
+
+Khi Joe đến lấy ticket 14321 để làm, anh ấy không cần phải làm vậy; anh ta có thể thấy rằng DBA (Database Administrator) đang làm việc siêng năng, không lướt web trong giờ làm. Tương tự như vậy, các ước tính thời gian công việc mà anh ấy nhận được từ nhân viên có vẻ hoàn toàn nhất quán và anh ấy không có cảm giác rằng dự án cần được làm ngay cả vào buổi ăn trưa và cả lúc đang kiểm tra email. Tất cả các thủ thuật và nỗ lực nhằm quản lý và nắm rõ lịch trình làm việc của team đều không được đáp ứng bằng “Chúng tôi sẽ cố gắng”, mà thay vào đó, “Đó là cam kết của chúng tôi; nếu bạn muốn thực hiện các mục tiêu của riêng mình, hãy thoải mái lên nào. “
+
+Sau một thời gian, tôi nghi ngờ Joe bắt đầu nghĩ đội ngũ kỹ thuật làm việc theo cái cách như những người chuyên nghiệp. Và anh ấy đã đúng.
+
+Các bước để chuyển từ một coder quèn sang một coder chuyên nghiệp. Bạn sẽ tìm thấy chúng trong phần còn lại của cuốn sách này.
+
+Chào mừng bạn đến với nấc thang tiếp theo trong sự nghiệp của bạn; Tôi nghĩ bạn sẽ thích nó.
+
+—Matthew Heusser
+
+Software Process Naturalist
